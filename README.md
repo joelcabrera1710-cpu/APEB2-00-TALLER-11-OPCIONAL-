@@ -1,1 +1,3 @@
 # APEB2-00-TALLER-11-OPCIONAL-
+1. Ejercicios/problemática sobre procesamiento de eventos turísticos. Al ser un tema general, las posibilidades de conceptos (para las tablas de datos) son infinitas. Por tanto, de detectarse plagio y/o uso de IA-generativa, no solo que no se acreditaran adicionales, sino que, se anularan todos los acumulados al 2do.Bim.
+2. Del ejercicio sobre (Estudiantes VS Calificaciones), procesar las tabla y/o el archivo de salida, para dar respuestas a las siguientes preguntas: Cuantos estudiante aprueban, reprueba, y cuales están por dejado de la media general (del curso) con que promedio individual 
